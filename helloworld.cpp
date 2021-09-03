@@ -7,6 +7,8 @@ int main() {
 	return 0;
 }*/
 
+//동기화 확인
+
 #include <iostream>
 class LetDebug
 {
